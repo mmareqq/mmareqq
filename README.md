@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-<!--
-**mmareqq/mmareqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend developer
 
+-  Learning JS, React, Web Design and more
+-  I like to solve problems
+-  Feel free to contact me on Discord: mmareqq
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
