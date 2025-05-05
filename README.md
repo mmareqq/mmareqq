@@ -2,9 +2,8 @@
 
 ### Aspiring Frontend developer
 
--  Learning JS, React, Web Design and more
--  I like to solve problems
--  Feel free to contact me on Discord: mmareqq
+-  Learning JS, React, Web Design
+-  I like solving problems & algorithms
 
 <!--
 Here are some ideas to get you started:
