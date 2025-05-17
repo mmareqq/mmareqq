@@ -1,10 +1,9 @@
-## Hi there 👋
+### frontend dev wannabe
 
-### Aspiring Frontend developer
-
--  Learning JS, React, Web Design
--  I like solving problems & algorithms
-
+- prayin that AI won't take over the world 🙏
+- knows how to center a div
+- scared of commiting ( trust issues )
+- too lazy to live
 <!--
 Here are some ideas to get you started:
 
