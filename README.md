@@ -1,9 +1,4 @@
-### frontend dev wannabe
-
-- prayin that AI won't take over the world 🙏
-- knows how to center a div
-- scared of commiting ( trust issues )
-- too lazy to live
+### aspiring, passionate, enthusiastic, professional, motivated learner of frontend.
 <!--
 Here are some ideas to get you started:
 
